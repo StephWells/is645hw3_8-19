@@ -1,9 +1,9 @@
 const x="abc";
-switch(x){
+switch(x) {
     case"abc":
-    console.log("x=abc");
+    console.log("x = abc");
     //nobreak
     case"def":
-    console.log("x=def");
+    console.log("x = def");
     break;
 }

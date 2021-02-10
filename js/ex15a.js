@@ -1,5 +1,5 @@
 const x="abc";
-switch(x){
+switch(x) {
     case"abc":
     console.log("x=abc");
     break;
